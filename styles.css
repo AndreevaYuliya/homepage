@@ -268,3 +268,23 @@
 .additional-info__languages-item {
   color: var(--secondary-text-color);
 }
+
+.additional-info__certificates {
+    margin-bottom: 20px;
+  }
+  
+  .additional-info__certificates__header {
+    color: var(--secondary-text-color);
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  
+  .additional-info__certificates__list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .additional-info__certificates__list li {
+    color: var(--secondary-text-color);
+  }
+  
